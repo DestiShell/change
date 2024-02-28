@@ -1,7 +1,8 @@
-Изминения (1.69.04)
+Changes (1.69.04)
 
-[/] Изминены некоторие файлы
-[+] Улучшен AutoBuy
-[-] Убраны ненужние детали
-[+] Новые кодеры
-[+] Кфг теперь работают
+[/] Some files have been changed
+[+] Improved AutoBuy
+[-] Removed unnecessary details
+[+] New coders
+[+] Kfg now work
+[+] Complete changes in discord

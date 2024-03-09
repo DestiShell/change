@@ -1,8 +1,11 @@
 Changes (1.69.04)
 
 [/] Some files have been changed
-[+] Improved AutoBuy
+[+] New AutoBuy
 [-] Removed unnecessary details
 [+] New coders
 [+] Kfg now work
 [+] Complete changes in discord
+[+] New Aura
+[+] "@" Job now
+[/] <3 

@@ -5,7 +5,7 @@ Changes (1.69.04)
 [-] Removed unnecessary details
 [+] New coders
 [+] Kfg now work
+[+] New Aura (x2)
 [+] Complete changes in discord
-[+] New Aura
 [+] "@" Job now
 [/] <3 

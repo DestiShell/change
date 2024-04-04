@@ -1,11 +1,9 @@
 Changes (1.69.04)
 
 [/] Some files have been changed
-[+] New AutoBuy
+[-] AutoBuy
 [-] Removed unnecessary details
-[+] New coders
-[+] Kfg now work
-[+] New Aura (x2)
+[+] Update combat, muisc, player
 [+] Complete changes in discord
-[+] "@" Job now
+[+] We making 05 version
 [/] <3 

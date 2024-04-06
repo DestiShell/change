@@ -5,5 +5,9 @@ Changes (1.69.04)
 [-] Removed unnecessary details
 [+] Update combat, muisc, player
 [+] Complete changes in discord
+[+] New Discord RPC mods
+[+] New Aura
+[+] New Aura ESP...
+[+] New particles
 [+] We making 05 version
 [/] <3 

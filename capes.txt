@@ -4,3 +4,5 @@ PavelZozcin:dev
 M1neBeast:dev
 hrupov_pablo:dev
 hrupov_hvgnd:dev
+1_mondor_1:tester
+1_mondor_2:tester

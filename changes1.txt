@@ -1,4 +1,4 @@
-Changes (1.69.04)
+Changes (1.69.05)
 
 [/] Some files have been changed
 [-] AutoBuy
@@ -9,5 +9,4 @@ Changes (1.69.04)
 [+] New Aura
 [+] New Aura ESP...
 [+] New particles
-[+] We making 05 version
 [*] <3 

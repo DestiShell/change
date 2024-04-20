@@ -1,5 +1,5 @@
 legit;sekynda;4.20.2024
 hvh;sekynda;4.20.2024
 grim;sekynda;4.20.2024
-dump (не работает);sekynda;4.20.2024
-null (не работает);sekynda;4.20.2024
+dump (dont work);sekynda;4.20.2024
+null (dont work);sekynda;4.20.2024

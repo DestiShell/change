@@ -1,12 +1,11 @@
-Changes (1.69.05)
+Changes (1.69.06)
 
 [/] Some files have been changed
-[-] AutoBuy
-[-] Removed unnecessary details
-[+] Update combat, muisc, player
-[+] Complete changes in discord
-[+] New Discord RPC mods
-[+] New Aura
-[+] New Aura ESP...
-[+] New particles
+[/] Better click gui (fuck eye)
+[-] Lagg shaders
+[-] Bad Gradient
+[+] Update all combat modules
+[+] The color is more beautiful
+[+] New hud in clickGui
+[+] Update modules like all
 [*] <3 

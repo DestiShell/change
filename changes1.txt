@@ -1,4 +1,4 @@
-Changes (1.69.06)
+[*] New Changes Beta 06
 
 [/] New AURA no kick
 [/] Better click gui v2 (fuck eye)

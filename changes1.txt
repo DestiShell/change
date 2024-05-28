@@ -1,11 +1,12 @@
 Changes (1.69.06)
 
-[/] Some files have been changed
-[/] Better click gui (fuck eye)
-[-] Lagg shaders
-[-] Bad Gradient
-[+] Update all combat modules
+[/] New AURA no kick
+[/] Better click gui v2 (fuck eye)
+[+] Optimization
+[+] New Hud`s
+[+] New WM
+[+] New TargetHud build
 [+] The color is more beautiful
-[+] New hud in clickGui
-[+] Update modules like all
+[+] New staff board
+[+] New AutoTotem(-LaggV2)
 [*] <3 

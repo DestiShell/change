@@ -1,12 +1,5 @@
 [*] New Changes Beta 06
 
-[/] New AURA no kick
-[/] Better click gui v2 (fuck eye)
-[+] Optimization
-[+] New Hud`s
-[+] New WM
-[+] New TargetHud build
-[+] The color is more beautiful
-[+] New staff board
-[+] New AutoTotem(-LaggV2)
+[/] New AURA
+[/] New DISCORD RPC
 [*] <3 
